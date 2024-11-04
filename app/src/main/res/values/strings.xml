@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyPoster</string>
+    <string name="poster">Poster</string>
+    <string name="add_to_watchlist">Add_to_watchlist</string>
+</resources>
